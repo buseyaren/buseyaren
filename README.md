@@ -15,10 +15,6 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 - 🌱 I’m currently learning **PyTorch,Keras and TensorFlow**
 - 💭 Ask me about **Artificial Intelligence, Deep Learning, Image Classification and Segmentation**
 - 📫 How to reach me: **buseyarentekin@outlook.com**
-### Blog Posts 📑
-<!-- BLOG-POST-LIST:START -->
-[![Buse Yaren Tekin](https://github-readme-medium.vercel.app/?username=buseyaren)](https://buseyaren.medium.com)
-<!-- BLOG-POST-LIST:END -->
 
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
