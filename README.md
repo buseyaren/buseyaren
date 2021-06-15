@@ -8,13 +8,13 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 [![Linkedin Badge](https://img.shields.io/badge/-buseyarentekin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buseyarentekin/)](https://www.linkedin.com/in/buseyarentekin/)
 [![Medium Badge](https://img.shields.io/badge/-@BuseYarenTekin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@buseyaren)
 [![Website Badge](https://img.shields.io/badge/-buseyarentekin.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://buseyarentekin.com&color=ff69b4)](https://buseyarentekin.com) [![Twitter Badge](https://img.shields.io/badge/@BuseYarenTekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BuseYarenTekin)](https://twitter.com/BuseYarenTekin)
-[![Gmail Badge](https://img.shields.io/badge/-buseyarentekin-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:buseyarentekin@outlook.com&color=blueviolet)](mailto:buseyarentekin@outlook.com)
 
 ![](https://img.shields.io/badge/%20Projects-12-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
 ![](https://img.shields.io/badge/Earned%20Certificates-24-AC6EFF?labelColor=7D898B)
 - 🌱 I’m currently learning **PyTorch,Keras and TensorFlow**
 - 💭 Ask me about **Artificial Intelligence, Deep Learning, Image Classification and Segmentation**
+- 📫 How to reach me: **buseyarentekin@outlook.com**
 ### Blog Posts 📑
 <!-- BLOG-POST-LIST:START -->
 [![Buse Yaren Tekin](https://github-readme-medium.vercel.app/?username=buseyaren)](https://buseyaren.medium.com)
