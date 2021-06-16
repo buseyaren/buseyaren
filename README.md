@@ -11,7 +11,7 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 
 ![](https://img.shields.io/badge/%20Projects-12-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
-![](https://img.shields.io/badge/Earned%20Certificates-24-AC6EFF?labelColor=7D898B)
+![](https://img.shields.io/badge/Earned%20Certificates-27-AC6EFF?labelColor=7D898B)
 - 🌱 I’m currently learning **PyTorch,Keras and TensorFlow**
 - 💭 Ask me about **Artificial Intelligence, Deep Learning, Image Classification and Segmentation**
 - 📫 How to reach me: **buseyarentekin@outlook.com**
