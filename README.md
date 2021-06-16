@@ -8,7 +8,7 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 [![Linkedin Badge](https://img.shields.io/badge/-buseyarentekin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buseyarentekin/)](https://www.linkedin.com/in/buseyarentekin/)
 [![Medium Badge](https://img.shields.io/badge/-@BuseYarenTekin-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@buseyaren)
 [![Website Badge](https://img.shields.io/badge/-buseyarentekin.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://buseyarentekin.com&color=ff69b4)](https://buseyarentekin.com) [![Twitter Badge](https://img.shields.io/badge/@BuseYarenTekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BuseYarenTekin)](https://twitter.com/BuseYarenTekin)
-### Latest YouTube Video 🔔
+### Latest YouTube Video 📢
 <!-- YOUTUBE-VIDEO-LIST:START -->
 [![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=FAUZJC1CyGo&t=2s)
 <!-- YOUTUBE-VIDEO-LIST:END -->
