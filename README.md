@@ -15,7 +15,7 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 <!-- YOUTUBE-VIDEO-LIST:START -->
 [![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=-w4R2G6MNQo&t=1025s)
 <!-- YOUTUBE-VIDEO-LIST:END -->
-![](https://img.shields.io/badge/%20Projects-12-brightgreen?labelColor=7D898B)
+![](https://img.shields.io/badge/%20Projects-15-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
 ![](https://img.shields.io/badge/Earned%20Certificates-27-AC6EFF?labelColor=7D898B)
 - 🌱 I’m currently learning **PyTorch,Keras and TensorFlow**
