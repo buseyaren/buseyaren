@@ -13,7 +13,7 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 [![Kaggle Badge](https://img.shields.io/badge/buseyarentekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://kaggle.com/buseyarentekin)](https://kaggle.com/buseyarentekin)
 ### Latest YouTube Video 📢
 <!-- YOUTUBE-VIDEO-LIST:START -->
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=ixo5BEKs7IU)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=tRmsUGc5K0U&t=1344s)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 ![](https://img.shields.io/badge/%20Projects-15-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
