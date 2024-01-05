@@ -1,5 +1,5 @@
 <h2> Hi, I'm Buse <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+# About Me:
 <em>PhD Candidate, Computer Engineer at <a href="https://unika.edu.tr">University of Karabuk </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 <em>Master of Science, Computer Engineer at <a href="https://unika.edu.tr">University of Karabuk </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgAI </a><img src="https://media.giphy.com/media/c4ucBxUdcYf0Np1oPo/giphy.gif" width="30"></em>
@@ -11,17 +11,19 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 [![Twitter Badge](https://img.shields.io/badge/@BuseYarenTekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BuseYarenTekin)](https://twitter.com/BuseYarenTekin)
 [![Kaggle Badge](https://img.shields.io/badge/buseyarentekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://kaggle.com/buseyarentekin)](https://kaggle.com/buseyarentekin)
 ### Latest YouTube Video 📢
+**Data Mining | Steps of Data and Create a Model** 👇🏻
 <!-- YOUTUBE-VIDEO-LIST:START -->
 [![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=tRmsUGc5K0U&t=1344s)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 ![](https://img.shields.io/badge/%20Projects-15-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
 ![](https://img.shields.io/badge/Earned%20Certificates-29-AC6EFF?labelColor=7D898B)
-- 🌱 I’m currently working **PyTorch,Keras and TensorFlow**
+- 🌱 I am currently working **PyTorch, Keras and TensorFlow**
 - 👩🏻‍🔬 I am a specialist in **Data Mining, Machine Learning, and Deep Learning**
 - 💭 Ask me about **Artificial Intelligence, especially Image Classification and Segmentation**
 - 📫 How to reach me: **buseyarentekin@outlook.com**
 
+### Working Fields, Libraries and Frameworks 🗼
 <p align="left">
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="keras" width="60" height="60"/>
