@@ -1,6 +1,5 @@
 <h2> Hi, I'm Buse <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<em>Academician at <a href="https://www.kastamonu.edu.tr/index.php/en/">University of Kastamonu</a><img src="https://media.giphy.com/media/Uo0oZrriYg01G7Yvit/giphy.gif" width="30"></br>
 <em>PhD Candidate, Computer Engineer at <a href="https://unika.edu.tr">University of Karabuk </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 <em>Master of Science, Computer Engineer at <a href="https://unika.edu.tr">University of Karabuk </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgAI </a><img src="https://media.giphy.com/media/c4ucBxUdcYf0Np1oPo/giphy.gif" width="30"></em>
@@ -18,8 +17,9 @@ Artificial Intelligence Specialist at <a href="https://www.simurgai.com">SimurgA
 ![](https://img.shields.io/badge/%20Projects-15-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
 ![](https://img.shields.io/badge/Earned%20Certificates-29-AC6EFF?labelColor=7D898B)
-- 🌱 I’m currently learning **PyTorch,Keras and TensorFlow**
-- 💭 Ask me about **Artificial Intelligence, Deep Learning, Image Classification and Segmentation**
+- 🌱 I’m currently working **PyTorch,Keras and TensorFlow**
+- 👩🏻‍🔬 I am a specialist in **Data Mining, Machine Learning, and Deep Learning**
+- 💭 Ask me about **Artificial Intelligence, especially Image Classification and Segmentation**
 - 📫 How to reach me: **buseyarentekin@outlook.com**
 
 <p align="left">
