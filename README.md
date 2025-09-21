@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=buseyarentekin&color=ff69b4&style=plastic?labelColor=7D898B)
 
-<em>Visiting Student, Biomedical Informatics at <a href="https://unika.edu.tr">University of Kentucky  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-<em>Ph.D. Candidate, Computer Engineering at <a href="https://unika.edu.tr">University of Karabuk </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-<em>M.Sc., Computer Engineering at <a href="https://unika.edu.tr">University of Karabuk </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-AI Team Lead at MELIC - Mitsubishi Electric Innovation Center<img src="https://media.giphy.com/media/c4ucBxUdcYf0Np1oPo/giphy.gif" width="30"></em>
+<em>Visiting Student, Biomedical Informatics at <a href="https://unika.edu.tr">University of Kentucky  </a></br>
+<em>Ph.D. Candidate, Computer Engineering at <a href="https://unika.edu.tr">University of Karabuk </a></br>
+<em>M.Sc., Computer Engineering at <a href="https://unika.edu.tr">University of Karabuk </a></br>
+AI Engineer at MELIC - Mitsubishi Electric Innovation Center
 
 [![Linkedin Badge](https://img.shields.io/badge/-buseyarentekin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buseyarentekin/)](https://www.linkedin.com/in/buseyarentekin/)
 [![Medium Badge](https://img.shields.io/badge/-@buseyaren-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@buseyaren)
