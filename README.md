@@ -11,7 +11,7 @@ AI Engineer at MELIC - Mitsubishi Electric Innovation Center
 [![Medium Badge](https://img.shields.io/badge/-@buseyaren-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@buseyaren)
 <h4 align="left">Latest YouTube Video - Data Mining | Steps of Data and Create a Model:</h4>
 
-![](https://img.shields.io/badge/%20Projects-15-brightgreen?labelColor=7D898B)
+![](https://img.shields.io/badge/%20Projects-20-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
 ![](https://img.shields.io/badge/Earned%20Certificates-29-AC6EFF?labelColor=7D898B)
 - 🌱 I am currently working **PyTorch, Keras and TensorFlow**
