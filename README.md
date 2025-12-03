@@ -9,13 +9,8 @@ AI Engineer at MELIC - Mitsubishi Electric Innovation Center
 
 [![Linkedin Badge](https://img.shields.io/badge/-buseyarentekin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buseyarentekin/)](https://www.linkedin.com/in/buseyarentekin/)
 [![Medium Badge](https://img.shields.io/badge/-@buseyaren-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@buseyaren)
-[![Twitter Badge](https://img.shields.io/badge/@BuseYarenTekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BuseYarenTekin)](https://twitter.com/BuseYarenTekin)
-[![Kaggle Badge](https://img.shields.io/badge/buseyarentekin-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white&link=https://kaggle.com/buseyarentekin)](https://kaggle.com/buseyarentekin)
 <h4 align="left">Latest YouTube Video - Data Mining | Steps of Data and Create a Model:</h4>
 
-<!-- YOUTUBE-VIDEO-LIST:START -->
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/71px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=tRmsUGc5K0U&t=1344s)
-<!-- YOUTUBE-VIDEO-LIST:END -->
 ![](https://img.shields.io/badge/%20Projects-15-brightgreen?labelColor=7D898B)
 ![](https://img.shields.io/badge/Awards%20%20-4-48D6FF?labelColor=7D898B)
 ![](https://img.shields.io/badge/Earned%20Certificates-29-AC6EFF?labelColor=7D898B)
@@ -34,8 +29,3 @@ AI Engineer at MELIC - Mitsubishi Electric Innovation Center
    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="60" height="60"/>
    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/pandas.svg" alt="pandas" width="60" height="60"/> 
 </p>   
-<h4 align="left">Info:</h4>
-   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buseyaren&layout=compact&theme=transparent" alt=buseyaren />
-<p><img align="center" height="180em"src="https://github-readme-stats.vercel.app/api?username=buseyaren&show_icons=true" alt="buseyaren" /></p>
-
-
